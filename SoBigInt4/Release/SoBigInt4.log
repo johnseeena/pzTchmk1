@@ -1,0 +1,16 @@
+﻿  BigInt.cpp
+C:\Users\krusher\Source\Repos\SoBigInt4\SoBigInt4\BigInt.cpp(25,60): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\krusher\Source\Repos\SoBigInt4\SoBigInt4\BigInt.cpp(27,59): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\krusher\Source\Repos\SoBigInt4\SoBigInt4\BigInt.cpp(50,121): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\krusher\Source\Repos\SoBigInt4\SoBigInt4\BigInt.cpp(102,34): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\krusher\Source\Repos\SoBigInt4\SoBigInt4\BigInt.cpp(102,54): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\krusher\Source\Repos\SoBigInt4\SoBigInt4\BigInt.cpp(102,78): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\krusher\Source\Repos\SoBigInt4\SoBigInt4\BigInt.cpp(102,97): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\krusher\Source\Repos\SoBigInt4\SoBigInt4\BigInt.cpp(324,43): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\krusher\Source\Repos\SoBigInt4\SoBigInt4\BigInt.cpp(337,24): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+  SoBigInt4.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 282 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SoBigInt4.vcxproj -> C:\Users\krusher\Source\Repos\SoBigInt4\Release\SoBigInt4.exe
